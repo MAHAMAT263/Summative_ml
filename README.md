@@ -1,4 +1,4 @@
-#Linear Regression
+Linear Regression
 This repository features code for building linear regression models through various methods, including NumPy, Scikit-Learn, and gradient descent. The primary objective is to forecast sales based on TV marketing expenditures.
 
 Dataset
